@@ -24,3 +24,5 @@ Download only from this official page to avoid malware risks.
 
 💬 Support & Community
 Join our Discord server for support, script sharing, and updates!
+
+I DO NOT OWN THE API!
